@@ -43,12 +43,19 @@ How to Use
 3. Alternatively, you can press the keyboard keys associated with each drum sound. The key mappings are as follows:
 
 . "w" key: Crash sound
+
 . "a" key: Kick-bass sound
+
 . "s" key: Snare sound
+
 . "d" key: Tom-1 sound
+
 . "j" key: Tom-2 sound
+
 . "k" key: Tom-3 sound
+
 . "l" key: Tom-4 sound
+
 4. When you click a button or press a key, the corresponding button will animate briefly to provide visual feedback.
 
 Contributing
